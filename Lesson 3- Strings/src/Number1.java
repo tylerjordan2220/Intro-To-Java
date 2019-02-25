@@ -37,7 +37,15 @@ public class Number1 {
 //number 9
 		System.out.println("Hello\nHello Again");
 //number 10
-		System.out.println();
+		System.out.println("A Backslash looks like this\\,right?");
+//Number 11
+		String pq = "Eddie Haskel";
+		int hm = pq.length();
+		String ed= pq.substring(hm-4);
+		System.out.println(ed);
+//Number 12 
+		
+	
 		
 		
 		
