@@ -9,9 +9,6 @@ public class Lesson32 {
 		System.out.println("line 1\n"+"\\line              two\\");
 		System.out.println("\\\\denotes a single line comment\n"+"\\*denotes a ultiline comment\\*");
 		System.out.println("\"\\\\\"\\\"\"");
-		hgdfgfdhsfhfghtrhtrfhgrthgtfht
-		
-		
 		
 		
 		
