@@ -13,8 +13,8 @@ public class CastingandConstant {
 		
 		double d = 13.25;
 		int i =12;
-		int j = (int)d/i;
-		System.out.println(j);
+		int t = (int)d/i;
+		System.out.println(t);
 		
 		
 		
@@ -32,7 +32,18 @@ public class CastingandConstant {
 		System.out.println(57.2*(double)i1/i2+1);
 		System.out.println(15-i1*(d1*3)+4);
 		System.out.println(14-i1*(int)(d1*3)+4);
-		System.out.println();
+		System.out.println(15-i1*((int)d1*3)+4);
+		double j = 61/3;
+		int p = (int)j;
+
+		System.out.println(p);
+		
+		int u =5;
+		double U = 5.55;
+		System.out.println(u*U);
+		System.out.println(5%3);
+		
+		System.out.println(("Johnny" + "Know"));
 		
 		
 		
